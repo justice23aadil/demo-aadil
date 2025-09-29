@@ -1,4 +1,4 @@
 # demo-aadil
-my first repo
+my first repository.
 <br>
 author - aadil sheikh
